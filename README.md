@@ -21,6 +21,13 @@ This datapack allows you to **store** your **experience** and **retrieve** it at
 
 ---
 
+## Repair Items
+
+You can repair **mending** enchanted items by **dropping** them, after activating the **`repair` mode** on the main page of the <abbr title="The Interface produced by the craftable item.">**Knowledge Indexer**</abbr>.
+> Items **won't** repair if you **haven't** stored enough **experience** into the **Knowledge Indexer**.
+
+---
+
 ### Note
 
 The **Resource Pack** is **strongly recommended** for now, and will be pretty much **required** later on.
