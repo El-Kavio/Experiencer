@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        "ARA",
+        "YLY"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ender_chest"
+        },
+        "E": {
+            "item": "minecraft:soul_lantern"
+        },
+        "A": {
+            "item": "minecraft:anvil"
+        },
+        "R": {
+            "item": "minecraft:enchanted_book"
+        },
+        "Y": {
+            "item": "minecraft:experience_bottle"
+        },
+        "L": {
+            "item": "minecraft:lime_shulker_box"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

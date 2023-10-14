@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Experiencer": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "experiencer:experiencer_book"
+            }
+        }
+    },
+    "rewards": {
+        "function": "experiencer:exr_book_craft"
+    }
+}
