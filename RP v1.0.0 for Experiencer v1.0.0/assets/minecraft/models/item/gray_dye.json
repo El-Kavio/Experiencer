@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/gray_dye"
+  },
+	"overrides": [
+	{"predicate": {"custom_model_data": 11001}, "model": "experiencer:item/take_gm"},
+	{"predicate": {"custom_model_data": 11002}, "model": "experiencer:item/store_gm"},
+	{"predicate": {"custom_model_data": 11003}, "model": "experiencer:item/extra_gm"},
+	{"predicate": {"custom_model_data": 11004}, "model": "experiencer:item/lore_gm"},
+	{"predicate": {"custom_model_data": 11101}, "model": "experiencer:item/settings_gm"},
+	{"predicate": {"custom_model_data": 21000}, "model": "experiencer:item/gui_gm"}
+  ]
+}

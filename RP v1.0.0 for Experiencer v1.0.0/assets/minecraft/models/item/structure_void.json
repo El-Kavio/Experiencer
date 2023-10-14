@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/structure_void"
+  },
+	"overrides": [
+    {"predicate": {"custom_model_data": 8600}, "model": "experiencer:item/structure_void_invi"}
+  ]
+}
