@@ -18,3 +18,9 @@ This datapack allows you to **store** your **experience** and **retrieve** it at
 </details>
 
 > You can also obtain it via `/function experiencer:exr_book_craft`
+
+---
+
+### Note
+
+The **Resource Pack** is **strongly recommended** for now, and will be pretty much **required** later on.
