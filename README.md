@@ -31,3 +31,7 @@ You can repair **mending** enchanted items by **dropping** them, after activatin
 ### Note
 
 The **Resource Pack** is **strongly recommended** for now, and will be pretty much **required** later on.
+
+---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kavio)
