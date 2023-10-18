@@ -1,0 +1,4 @@
+# # Config
+# Lose 1/10th of stored XP on death.
+execute if score .global 1_10_lose_cEXr matches 0 run tellraw @s ["",{"text":"Lose 1/10th of stored XP on death. ","color":"red"},{"text":"| ","color":"gray"},{"text":"[\u2713]","color":"green","clickEvent":{"action":"run_command","value":"/scoreboard players set .global 1_10_lose_cEXr 1"}},{"text":" [\u2717]","color":"red","clickEvent":{"action":"run_command","value":"/scoreboard players set .global 1_10_lose_cEXr 0"}}]
+execute if score .global 1_10_lose_cEXr matches 1 run tellraw @s ["",{"text":"Lose 1/10th of stored XP on death. ","color":"green"},{"text":"| ","color":"gray"},{"text":"[\u2713]","color":"green","clickEvent":{"action":"run_command","value":"/scoreboard players set .global 1_10_lose_cEXr 1"}},{"text":" [\u2717]","color":"red","clickEvent":{"action":"run_command","value":"/scoreboard players set .global 1_10_lose_cEXr 0"}}]
