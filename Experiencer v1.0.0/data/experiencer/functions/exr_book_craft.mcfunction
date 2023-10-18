@@ -1,4 +1,0 @@
-recipe take @s experiencer:experiencer_book
-advancement revoke @s only experiencer:exr_book
-clear @s knowledge_book
-give @s minecraft:structure_block{Tags:["ExperiencerBook"],CustomModelData:8650,display:{Lore:['[{"text":"This mysterious book of unknown origin\\nlets you store your accumulated knowledge,\\nalso known as experience points,\\ndirectly into your ","color":"purple"},{"text":"s o u l","color":"light_purple"},{"text":".\\n\\nB̵̙́u̵̝̐ť̴ͅ ̷̰̕a̵̛͍t̶̘͒ ̸̲̒ẅ̷̭́h̸̰̚a̸͉̕t̴̥͌ ̵̤̈́c̸̔ͅo̵̪͆s̸͚̈́t̷̎?","color":"purple"}]'],Name:'{"text":"Knowledge Indexer","bold":true,"italic":false,"color":"green"}'},Enchantments:[{id:"minecraft:thorns",lvl:1}],HideFlags:1} 1
