@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/structure_block",
-	"overrides": [
-    {"predicate": {"custom_model_data": 8650}, "model": "experiencer:item/experiencer_book"}
-  ]
-}

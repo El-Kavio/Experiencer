@@ -1,9 +1,0 @@
-{
-  "parent": "experiencer:item/generated",
-  "textures": {
-    "layer0": "experiencer:item/light_gray_dye"
-  },
-	"overrides": [
-    {"predicate": {"custom_model_data": 9502}, "model": "experiencer:item/light_gray_d_invi"}
-  ]
-}

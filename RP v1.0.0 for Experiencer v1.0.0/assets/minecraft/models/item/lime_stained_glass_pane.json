@@ -1,9 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "block/lime_stained_glass"
-  },
-	"overrides": [
-    {"predicate": {"custom_model_data": 9500}, "model": "item/lime_sgp_invi"}
-  ]
-}
