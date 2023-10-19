@@ -21,12 +21,24 @@ This datapack allows you to **store** your **experience** and **retrieve** it at
 
 ---
 
+## How to use
+
+- You can **summon** the **Knowledge Indexer** by **holding** the craftable item.
+
+- You can **teleport** the **Knowledge Indexer** in front of you by **sneaking**.
+
+- The **Knowledge Indexe**r will **disappear** if another player is nearby.
+> You can **re-summon** it when you're away from any player by either **changing** item and holding the book again, or by **sneaking**.
+
+---
+
 ## Repair Items
 
 You can repair **mending** enchanted items by **dropping** them, after activating the **`repair` mode** on the main page of the <abbr title="The Interface produced by the craftable item.">**Knowledge Indexer**</abbr>.
 > Items **won't** repair if you **haven't** stored enough **experience** into the **Knowledge Indexer**.
 
 ---
+
 
 ### Note
 
