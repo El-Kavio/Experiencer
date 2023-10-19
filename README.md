@@ -27,7 +27,7 @@ This datapack allows you to **store** your **experience** and **retrieve** it at
 
 - You can **teleport** the **Knowledge Indexer** in front of you by **sneaking**.
 
-- The **Knowledge Indexe**r will **disappear** if another player is nearby.
+- The **Knowledge Indexer** will **disappear** if another player is nearby.
 > You can **re-summon** it when you're away from any player by either **changing** item and holding the book again, or by **sneaking**.
 
 ---
@@ -40,7 +40,9 @@ You can repair **mending** enchanted items by **dropping** them, after activatin
 ---
 
 
-### Note
+### Notes
+
+> You can open the config with `/function experiencer:config`
 
 The **Resource Pack** is **strongly recommended** for now, and will be pretty much **required** later on.
 
