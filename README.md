@@ -7,7 +7,7 @@ This datapack allows you to **store** your **experience** and **retrieve** it at
 ## Craft
 <img src="https://github.com/El-Kavio/Experiencer/assets/140896938/06886851-e04c-449f-983b-754ff9268c1f" alt="Experiencer craft"><br>
 
-<details><summary><b>Items needed</b></summary>
+<details><summary>I<b>tems needed</b></summary>
 
   - 2 Ender Chests
   - 2 Anvils
@@ -45,6 +45,15 @@ You can repair **mending** enchanted items by **dropping** them, after activatin
 > You can open the config with `/function experiencer:config`
 
 The **Resource Pack** is **strongly recommended** for now, and will be pretty much **required** later on.
+
+<details><summary><b><font color="#009B77">What to expect for future updates!</b></font></summary>
+<font color="#529082">
+
+* **"Notification"** when using an **outdated Resource Pack**.
+* Unlockable **Lore**.
+* Unlockable **"Trophies"**. *(via advancements)*
+</font>
+</details>
 
 ---
 
