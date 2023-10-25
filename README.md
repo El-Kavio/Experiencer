@@ -7,7 +7,7 @@ This datapack allows you to **store** your **experience** and **retrieve** it at
 ## Craft
 <img src="https://github.com/El-Kavio/Experiencer/assets/140896938/06886851-e04c-449f-983b-754ff9268c1f" alt="Experiencer craft"><br>
 
-<details><summary>I<b>tems needed</b></summary>
+<details><summary><b>Items needed</b></summary>
 
   - 2 Ender Chests
   - 2 Anvils
@@ -50,8 +50,8 @@ The **Resource Pack** is **strongly recommended** for now, and will be pretty mu
 <font color="#529082">
 
 * **"Notification"** when using an **outdated Resource Pack**.
-* Unlockable **Lore**.
-* Unlockable **"Trophies"**. *(via advancements)*
+* Unlockable **<abbr title="Animated images + sound">Lore</abbr>**.
+* Unlockable "**<abbr title="Custom one time obtainables">Trophies</abbr>**". *(via advancements)*
 </font>
 </details>
 
