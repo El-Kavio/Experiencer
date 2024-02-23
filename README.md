@@ -44,8 +44,6 @@ You can repair **mending** enchanted items by **dropping** them, after activatin
 
 > You can open the config with `/function experiencer:config`
 
-The **Resource Pack** is **strongly recommended** for now, and will be pretty much **required** later on.
-
 <details><summary><b><font color="#009B77">What to expect for future updates! (will come in a while)</b></font></summary>
 <font color="#529082">
 
