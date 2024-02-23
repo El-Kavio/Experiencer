@@ -35,7 +35,7 @@ This datapack allows you to **store** your **experience** and **retrieve** it at
 ## Repair Items
 
 You can repair **mending** enchanted items by **dropping** them, after activating the **`repair` mode** on the main page of the <abbr title="The Interface produced by the craftable item.">**Knowledge Indexer**</abbr>.
-> Items **won't** repair if you **haven't** stored enough **experience** into the **Knowledge Indexer**.
+> Items **won't** repair if you **haven't** stored enough **experience** into the **Knowledge Indexer** or it haven't lost enough durability.
 
 ---
 
@@ -46,12 +46,11 @@ You can repair **mending** enchanted items by **dropping** them, after activatin
 
 The **Resource Pack** is **strongly recommended** for now, and will be pretty much **required** later on.
 
-<details><summary><b><font color="#009B77">What to expect for future updates!</b></font></summary>
+<details><summary><b><font color="#009B77">What to expect for future updates! (will come in a while)</b></font></summary>
 <font color="#529082">
 
-* **"Notification"** when using an **outdated Resource Pack**.
-* Unlockable **<abbr title="Animated images + sound">Lore</abbr>**.
-* Unlockable "**<abbr title="Custom one time obtainables">Trophies</abbr>**". *(via advancements)*
+* Adding Lore and Trophies
+* Adding more sound effects...
 </font>
 </details>
 
