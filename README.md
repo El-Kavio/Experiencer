@@ -1,6 +1,6 @@
 <img src="https://github.com/El-Kavio/Experiencer/assets/140896938/514ed70f-37dc-4a4f-b62f-604b00224f92" alt="Experiencer banner">
 
-This datapack allows you to **store** your **experience** and **retrieve** it at any point through the craftable **Knowledge Indexer**.
+#### This datapack allows you to **store** your **experience** and **retrieve** it at any point through the craftable **Knowledge Indexer** book.
 
 ---
 
