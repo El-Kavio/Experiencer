@@ -44,13 +44,7 @@ You can repair **mending** enchanted items by **dropping** them, after activatin
 
 > You can open the config with `/function experiencer:config`
 
-<details><summary><b><font color="#009B77">What to expect for future updates! (will come in a while)</b></font></summary>
-<font color="#529082">
-
-* Adding Lore and Trophies
-* Adding more sound effects...
-</font>
-</details>
+Due to snapshot 24w09 changes in data and the code mess of this datapack, I won't update this datapack anymore.
 
 ---
 
